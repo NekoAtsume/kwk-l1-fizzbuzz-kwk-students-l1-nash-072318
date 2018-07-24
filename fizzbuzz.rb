@@ -4,4 +4,4 @@ def fizzbuzz(int = 15)
   elsif 
 end
 end
-fizzbuzz(int)
+fizzbuzz(15)
