@@ -4,3 +4,4 @@ def fizzbuzz(int)
   elsif int 15 == 0
 end
 end
+fizzbuzz
