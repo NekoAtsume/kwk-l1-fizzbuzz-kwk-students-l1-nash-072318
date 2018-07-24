@@ -3,3 +3,4 @@ def fizzbuzz(int)
   puts"15 divs"
   elsif int 15 == 0
 end
+end
